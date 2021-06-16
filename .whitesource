@@ -3,7 +3,8 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableLicenseViolations": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
@@ -11,8 +12,5 @@
   },
   "issueSettings": {
     "minSeverityLevel": "NONE"
-  },
-  "remediateSettings": {
-    "enableRenovate": true
   }
 }
